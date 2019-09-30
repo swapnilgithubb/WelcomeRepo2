@@ -1,4 +1,4 @@
 welcome to java with git
 
 daily work
-work day1
+work day1.
